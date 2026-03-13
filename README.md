@@ -30,6 +30,6 @@ Actuellement en fin de stage en tant que Computer Vision Engineer en Slovaquie, 
 ---
 
 ### Contact & Liens
-* **LinkedIn :** [linkedin.com/in/votre-lien-ici](https://www.linkedin.com/in/maxime-fehrenbach-352067290/)
+* **LinkedIn :** [linkedin](https://www.linkedin.com/in/maxime-fehrenbach-352067290/)
 * **Email :** fehrenbach.max@gmail.com
 * **CV :** [Télécharger mon CV (PDF)](https://github.com/MaximeFehrenbach/CV/blob/main/CV_Maxime_Ingenieur_Computer_Vision.pdf)
