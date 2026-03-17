@@ -2,7 +2,7 @@
 
 **Élève Ingénieur - Vision par Ordinateur (ENSEEIHT)**
 
-Actuellement en fin de stage en tant que Computer Vision Engineer en Slovaquie, je me spécialise dans la vision par ordinateur et l'IA. Mon objectif technique est de faire le pont entre le prototypage algorithmique (Python/Deep Learning) et l'intégration temps réel sur architectures embarquées (C++).
+Élève-ingénieur à l'ENSEEIHT spécialisé en IA et Vision par ordinateur. Fort de mon stage d'ingénieur en tant que Computer Vision Engineer, je conçois des algorithmes de Deep Learning (Python, PyTorch, YOLO, ViT). En parallèle, je développe mes compétences en C++ moderne pour allier la conception de modèles performants aux exigences du temps réel.
 
 **En recherche d'une alternance d'un an pour la retrée 2026** (IA Embarquée, Vision par Ordinateur, Logiciel C++).
 
